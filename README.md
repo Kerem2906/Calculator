@@ -1,6 +1,7 @@
 # Python Calculator (As first project)
 
 This is my first coding project! I decided to make something simple, so here’s a basic calculator.
+Also Kerem241 is my other account , forgot changing accounts while uploading.
 
 ## Version History
 
