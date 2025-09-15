@@ -13,3 +13,4 @@ Also Kerem241 is my other account , forgot changing accounts while uploading.
 | 0.1.1 | Some bug fixes |
 | 0.2.0 | I added a loop (as much as possible) so when it finish with its job it goes back to start and continues (until a wrong input entered) |
 | 0.3.0 | I added loop for every command , it looks terrible and also it always goes back to start if a wrong input is entered , yet atleast it does not quit i guess |
+| 0.4.0 | Used `while True` for better loop progress |
