@@ -15,3 +15,5 @@ Also Kerem241 is my other account , forgot changing accounts while uploading.
 | 0.3.0 | I added loop for every command , it looks terrible and also it always goes back to start if a wrong input is entered , yet atleast it does not quit i guess |
 | 0.4.0 | Used `while True` for better loop progress |
 | 0.5.0 | Added 'Do you want to continue ?' question |
+| 0.6.0 | Added history feature to show previous calculations (previous outputs) |
+
